@@ -3,8 +3,8 @@
     {
       "manifest": {
         "plugin_id": "silo.attmonk.dispatcharr",
-        "version": "0.14.2",
-        "checksum": "b24658af36fa0f5398d8fd9794e64932312931a2e55fa0d651e7e1d4aac41b0b",
+        "version": "0.14.3",
+        "checksum": "295ccb7aa78682642b72a2ee3ac06fa8bc11efabe040a2060148ad1c168b8f92",
         "silo_api_version": "v1",
         "supported_platforms": [
           {
@@ -68,19 +68,19 @@
         }
       },
       "repo_url": "https://github.com/attmonk/attmonk-plugin-dispatcharr",
-      "checksums_url": "https://github.com/attmonk/attmonk-plugin-dispatcharr/releases/download/v0.14.2/checksums.txt",
+      "checksums_url": "https://github.com/attmonk/attmonk-plugin-dispatcharr/releases/download/v0.14.3/checksums.txt",
       "binaries": {
         "darwin/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-dispatcharr/releases/download/v0.14.2/dispatcharr-0.14.2-darwin-arm64",
-          "checksum": "d22e3b95a53608173358c4b131e224db2abfc2b327839bbd66fa7190d4ddfe83"
+          "url": "https://github.com/attmonk/attmonk-plugin-dispatcharr/releases/download/v0.14.3/dispatcharr-0.14.3-darwin-arm64",
+          "checksum": "075980a84c42afe929d7a363ba242bf85444630e56232ce9ee285ff6e2be18bd"
         },
         "linux/amd64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-dispatcharr/releases/download/v0.14.2/dispatcharr-0.14.2-linux-amd64",
-          "checksum": "b24658af36fa0f5398d8fd9794e64932312931a2e55fa0d651e7e1d4aac41b0b"
+          "url": "https://github.com/attmonk/attmonk-plugin-dispatcharr/releases/download/v0.14.3/dispatcharr-0.14.3-linux-amd64",
+          "checksum": "295ccb7aa78682642b72a2ee3ac06fa8bc11efabe040a2060148ad1c168b8f92"
         },
         "linux/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-dispatcharr/releases/download/v0.14.2/dispatcharr-0.14.2-linux-arm64",
-          "checksum": "96d50ea3e9b923b8128a27d4109e168cdaafb4c1b92f71a7ce563ec4af52eaec"
+          "url": "https://github.com/attmonk/attmonk-plugin-dispatcharr/releases/download/v0.14.3/dispatcharr-0.14.3-linux-arm64",
+          "checksum": "b9b8bd95aca3959445ede173c03408dbb844e4cec77210c9734741e80132aba9"
         }
       }
     },
