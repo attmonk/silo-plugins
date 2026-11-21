@@ -167,7 +167,7 @@
           {
             "type": "scheduled_task.v1",
             "id": "xtream-sync",
-            "display_name": "XC for Silo",
+            "display_name": "Xtream for Silo",
             "description": "Xtream Codes-first Live TV app with guide, VOD, series, provider Catch-up, and multiview."
           },
           {
@@ -189,7 +189,25 @@
             "description": "Browse and play configured Live TV sources."
           }
         ],
-        "category": "Video/Live TV"
+        "category": "Video/Live TV",
+        "presentation": {
+          "display_name": "Xtream for Silo",
+          "summary": "Xtream Codes-first Live TV, guide, VOD, series, provider Catch-up, and multiview.",
+          "description_markdown": "Independent ATTMonk integration for Xtream Codes and M3U/XMLTV sources. Browse Live TV, guide, VOD, series, provider Catch-up, and multiview. This plugin is unsupported by Silo Server; use the ATTMonk repository issues for support and do not discuss it on Silo Server platforms.",
+          "setup_markdown": "1. Install the plugin in ATTMonk Server.\n2. Open XC Admin and configure an Xtream Codes account or an M3U/XMLTV source.\n3. Enable the catalog sync scheduled task after configuration.",
+          "homepage_url": "https://github.com/attmonk/attmonk-plugin-xtream-library",
+          "source_url": "https://github.com/attmonk/attmonk-plugin-xtream-library",
+          "support_url": "https://github.com/attmonk/attmonk-plugin-xtream-library/issues",
+          "changelog_url": "https://github.com/attmonk/attmonk-plugin-xtream-library/releases",
+          "publisher_name": "ATTMonk",
+          "publisher_url": "https://github.com/attmonk",
+          "license_spdx": "AGPL-3.0-only"
+        },
+        "metadata": {
+          "display_name": "Xtream for Silo",
+          "summary": "Silo-hosted Xtream-first IPTV app with Live TV, guide, VOD, and series routes.",
+          "jellyfin_api_integration": false
+        }
       },
       "repo_url": "https://github.com/attmonk/attmonk-plugin-xtream-library",
       "checksums_url": "https://github.com/attmonk/attmonk-plugin-xtream-library/releases/download/v0.9.1/checksums.txt",

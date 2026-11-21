@@ -43,7 +43,7 @@ const catalogDisplayNotes = new Map([
   [
     "silo.attmonk.xtream",
     {
-      displayName: "XC for Silo",
+      displayName: "Xtream for Silo",
       description: "Xtream Codes-first Live TV app with guide, VOD, series, provider Catch-up, and multiview.",
     },
   ],
