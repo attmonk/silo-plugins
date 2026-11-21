@@ -319,7 +319,7 @@
     {
       "manifest": {
         "plugin_id": "silo.attmonk.hdhomerun",
-        "version": "0.6.1",
+        "version": "0.6.2",
         "silo_api_version": "v1",
         "supported_platforms": [
           {
@@ -350,7 +350,7 @@
           }
         ],
         "category": "Video/Live TV",
-        "checksum": "f6b20cacc4a952943fd18e55fa154ce70e60ac957674155396b872f6838808e5",
+        "checksum": "8509de11b7e0ded33af0d3dde23e31f7b68bc48aecec0f7c7f4a724ccf81f946",
         "presentation": {
           "display_name": "HDHomeRun for Silo",
           "summary": "Live TV from physical and emulated HDHomeRun tuners.",
@@ -373,19 +373,19 @@
       "repo_url": "https://github.com/attmonk/attmonk-plugin-hdhomerun",
       "binaries": {
         "darwin/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-hdhomerun/releases/download/v0.6.1/hdhomerun-0.6.1-darwin-arm64",
-          "checksum": "bf43fade87a02498a4a4b274627caab474000fe34a62a4451a32bb76436d7c42"
+          "url": "https://github.com/attmonk/attmonk-plugin-hdhomerun/releases/download/v0.6.2/hdhomerun-0.6.2-darwin-arm64",
+          "checksum": "a540fb3e50edf4c08386fafd0e0b6d9f8a69e8e093f5d706df869c1d736bb1d8"
         },
         "linux/amd64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-hdhomerun/releases/download/v0.6.1/hdhomerun-0.6.1-linux-amd64",
-          "checksum": "f6b20cacc4a952943fd18e55fa154ce70e60ac957674155396b872f6838808e5"
+          "url": "https://github.com/attmonk/attmonk-plugin-hdhomerun/releases/download/v0.6.2/hdhomerun-0.6.2-linux-amd64",
+          "checksum": "8509de11b7e0ded33af0d3dde23e31f7b68bc48aecec0f7c7f4a724ccf81f946"
         },
         "linux/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-hdhomerun/releases/download/v0.6.1/hdhomerun-0.6.1-linux-arm64",
-          "checksum": "2f15da297f5ba7bbe879c3e40e160c1d299d1ced25aad6b6ca0ee9d8616148c9"
+          "url": "https://github.com/attmonk/attmonk-plugin-hdhomerun/releases/download/v0.6.2/hdhomerun-0.6.2-linux-arm64",
+          "checksum": "cd58e9aad73b046848bd9fd18a8b50eaa760d8ddafedca28af91d3c6db927589"
         }
       },
-      "checksums_url": "https://github.com/attmonk/attmonk-plugin-hdhomerun/releases/download/v0.6.1/checksums.txt"
+      "checksums_url": "https://github.com/attmonk/attmonk-plugin-hdhomerun/releases/download/v0.6.2/checksums.txt"
     },
     {
       "manifest": {
