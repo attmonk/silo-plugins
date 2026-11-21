@@ -229,7 +229,7 @@
     {
       "manifest": {
         "plugin_id": "silo.attmonk.trakt",
-        "version": "0.4.0",
+        "version": "0.4.1",
         "silo_api_version": "v1",
         "supported_platforms": [
           {
@@ -284,7 +284,7 @@
           }
         ],
         "category": "Watch Providers",
-        "checksum": "2a1362c25d50b9990312823ac011d8fb73b0a0f148dfb7394554af65c1f0109d",
+        "checksum": "bf3bb5100297ae03561980486fb8e93e6b001c33fa0a74f63232d00ddd0253f6",
         "presentation": {
           "display_name": "Trakt",
           "summary": "Sync Silo watch activity, lists, ratings, and dropped shows with Trakt.",
@@ -302,19 +302,19 @@
       "repo_url": "https://github.com/attmonk/attmonk-plugin-watchprovider-trakt",
       "binaries": {
         "darwin/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-watchprovider-trakt/releases/download/v0.4.0/trakt-0.4.0-darwin-arm64",
-          "checksum": "d7c2689dfe90c75a6e9f9d84a0f6b5882315488ff1eed0cae024de67385a5622"
+          "url": "https://github.com/attmonk/attmonk-plugin-watchprovider-trakt/releases/download/v0.4.1/trakt-0.4.1-darwin-arm64",
+          "checksum": "a25987dbc4d9d3ff26cb6f83ca3a587cc4a478656e83030417030cca89519584"
         },
         "linux/amd64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-watchprovider-trakt/releases/download/v0.4.0/trakt-0.4.0-linux-amd64",
-          "checksum": "2a1362c25d50b9990312823ac011d8fb73b0a0f148dfb7394554af65c1f0109d"
+          "url": "https://github.com/attmonk/attmonk-plugin-watchprovider-trakt/releases/download/v0.4.1/trakt-0.4.1-linux-amd64",
+          "checksum": "bf3bb5100297ae03561980486fb8e93e6b001c33fa0a74f63232d00ddd0253f6"
         },
         "linux/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-watchprovider-trakt/releases/download/v0.4.0/trakt-0.4.0-linux-arm64",
-          "checksum": "17a3c3aaba975351fec382f9caec6b318953728ff85d820114874ebbc332af8f"
+          "url": "https://github.com/attmonk/attmonk-plugin-watchprovider-trakt/releases/download/v0.4.1/trakt-0.4.1-linux-arm64",
+          "checksum": "67a89edac67c7206c637261f960ef2c023be3eff8df54b121936f58de8ca2d45"
         }
       },
-      "checksums_url": "https://github.com/attmonk/attmonk-plugin-watchprovider-trakt/releases/download/v0.4.0/checksums.txt"
+      "checksums_url": "https://github.com/attmonk/attmonk-plugin-watchprovider-trakt/releases/download/v0.4.1/checksums.txt"
     },
     {
       "manifest": {
