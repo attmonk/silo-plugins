@@ -87,8 +87,8 @@
     {
       "manifest": {
         "plugin_id": "silo.attmonk.app-links",
-        "version": "0.2.0",
-        "checksum": "a635e4d43e64a06ae0703c600bb3dab3823f0eb3e27a22eb4d43ff03309aea46",
+        "version": "0.2.1",
+        "checksum": "943f17f6525bc7e8d31ede2b4c4978d413f06453f23286c7ab2f164569502155",
         "silo_api_version": "v1",
         "supported_platforms": [
           {
@@ -127,19 +127,19 @@
         }
       },
       "repo_url": "https://github.com/attmonk/attmonk-plugin-app-links",
-      "checksums_url": "https://github.com/attmonk/attmonk-plugin-app-links/releases/download/v0.2.0/checksums.txt",
+      "checksums_url": "https://github.com/attmonk/attmonk-plugin-app-links/releases/download/v0.2.1/checksums.txt",
       "binaries": {
         "darwin/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-app-links/releases/download/v0.2.0/app-links-0.2.0-darwin-arm64",
-          "checksum": "6ad9278929bf2cc23c2166af7c0bb8d925c1ef10e1c5d9d1e4cea25560b6c360"
+          "url": "https://github.com/attmonk/attmonk-plugin-app-links/releases/download/v0.2.1/app-links-0.2.1-darwin-arm64",
+          "checksum": "39445e4c2168e6f6ff4ddb5d2b87716c99fe8c3c60e4fb7a1511204d9c869c03"
         },
         "linux/amd64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-app-links/releases/download/v0.2.0/app-links-0.2.0-linux-amd64",
-          "checksum": "a635e4d43e64a06ae0703c600bb3dab3823f0eb3e27a22eb4d43ff03309aea46"
+          "url": "https://github.com/attmonk/attmonk-plugin-app-links/releases/download/v0.2.1/app-links-0.2.1-linux-amd64",
+          "checksum": "943f17f6525bc7e8d31ede2b4c4978d413f06453f23286c7ab2f164569502155"
         },
         "linux/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-app-links/releases/download/v0.2.0/app-links-0.2.0-linux-arm64",
-          "checksum": "4dd8814bbb20af1f93f386352f144b6e2455ac3c227441903f971e1bb1c99ca8"
+          "url": "https://github.com/attmonk/attmonk-plugin-app-links/releases/download/v0.2.1/app-links-0.2.1-linux-arm64",
+          "checksum": "b5ca2e1d3701ab7f1929a46c4110ad9f1759b3989188b199ca598ba36ac9b755"
         }
       }
     },
