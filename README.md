@@ -19,7 +19,7 @@ Current versions, platform coverage and checksums are in [manifest.json](manifes
 | Plugin | Description |
 | --- | --- |
 | [Dispatcharr for Silo](https://github.com/attmonk/attmonk-plugin-dispatcharr) | Live TV, guide, VOD and series; DVR in Direct mode. |
-| [XC for Silo](https://github.com/attmonk/attmonk-plugin-xtream-library) | Xtream and M3U/XMLTV Live TV, guide, VOD, series and catch-up. |
+| [Xtream for Silo](https://github.com/attmonk/attmonk-plugin-xtream-library) | Xtream and M3U/XMLTV Live TV, guide, VOD, series and catch-up. |
 | [HDHomeRun for Silo](https://github.com/attmonk/attmonk-plugin-hdhomerun) | HDHomeRun channels, guide, shared playback and Live Rewind. |
 | [App Links](https://github.com/attmonk/attmonk-plugin-app-links) | External app launcher. |
 | [Trakt](https://github.com/attmonk/attmonk-plugin-watchprovider-trakt) | Trakt watch-state integration. |
