@@ -390,7 +390,7 @@
     {
       "manifest": {
         "plugin_id": "silo.attmonk.romm",
-        "version": "0.8.0",
+        "version": "0.8.1",
         "silo_api_version": "v1",
         "supported_platforms": [
           {
@@ -415,7 +415,7 @@
           }
         ],
         "category": "Games",
-        "checksum": "002dfd419de4984b037547390e0e77d752447bf0ca9ebc8aded32c86ee520b2c",
+        "checksum": "5b8383d9810bf2cfaffbb8cfe858f00d54b723228db067287b0701ff8dc78935",
         "presentation": {
           "display_name": "RomM for Silo",
           "summary": "Your RomM collection, with browser play and personal saves.",
@@ -437,19 +437,19 @@
       "repo_url": "https://github.com/attmonk/attmonk-plugin-romm",
       "binaries": {
         "darwin/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-romm/releases/download/v0.8.0/romm-0.8.0-darwin-arm64",
-          "checksum": "210b6d121e4d588afe75991abfcfec41735d443b089b0bb6f57ac4e2fd057661"
+          "url": "https://github.com/attmonk/attmonk-plugin-romm/releases/download/v0.8.1/romm-0.8.1-darwin-arm64",
+          "checksum": "07864e0d9d113fa1e327d26a36a7326476e13af8c0bd2ab803723ba8bb013df0"
         },
         "linux/amd64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-romm/releases/download/v0.8.0/romm-0.8.0-linux-amd64",
-          "checksum": "002dfd419de4984b037547390e0e77d752447bf0ca9ebc8aded32c86ee520b2c"
+          "url": "https://github.com/attmonk/attmonk-plugin-romm/releases/download/v0.8.1/romm-0.8.1-linux-amd64",
+          "checksum": "5b8383d9810bf2cfaffbb8cfe858f00d54b723228db067287b0701ff8dc78935"
         },
         "linux/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-romm/releases/download/v0.8.0/romm-0.8.0-linux-arm64",
-          "checksum": "b8700706e670cb92d0e9fb4c98959f2e9fa4a8621447e94414745ea9b3273cee"
+          "url": "https://github.com/attmonk/attmonk-plugin-romm/releases/download/v0.8.1/romm-0.8.1-linux-arm64",
+          "checksum": "1a7b3b360fe997ffdbd12eae520777ac230fc33e3020f0032627ccaeb9ef67e5"
         }
       },
-      "checksums_url": "https://github.com/attmonk/attmonk-plugin-romm/releases/download/v0.8.0/checksums.txt"
+      "checksums_url": "https://github.com/attmonk/attmonk-plugin-romm/releases/download/v0.8.1/checksums.txt"
     }
   ]
 }
