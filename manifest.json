@@ -146,8 +146,8 @@
     {
       "manifest": {
         "plugin_id": "silo.attmonk.xtream",
-        "version": "0.9.1",
-        "checksum": "039b1ff204b85f1bc8b7ad6e8b914b98cda378176dbf6cdc16954ac80142bf04",
+        "version": "0.9.2",
+        "checksum": "c239cecebcfe754db02437bea2e1e3fc49c5e0e5e5c0326be39455d6f7fbe554",
         "silo_api_version": "v1",
         "supported_platforms": [
           {
@@ -210,19 +210,19 @@
         }
       },
       "repo_url": "https://github.com/attmonk/attmonk-plugin-xtream-library",
-      "checksums_url": "https://github.com/attmonk/attmonk-plugin-xtream-library/releases/download/v0.9.1/checksums.txt",
+      "checksums_url": "https://github.com/attmonk/attmonk-plugin-xtream-library/releases/download/v0.9.2/checksums.txt",
       "binaries": {
         "darwin/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-xtream-library/releases/download/v0.9.1/xtream-0.9.1-darwin-arm64",
-          "checksum": "fae8787fd55e8fb4132a2e07a37c2b71cd81b17bc58d426cd0ba77de4fbf9195"
+          "url": "https://github.com/attmonk/attmonk-plugin-xtream-library/releases/download/v0.9.2/xtream-0.9.2-darwin-arm64",
+          "checksum": "50568abeaae0708276c8a09024737e70750ebf5673fed57018e8b773991f9723"
         },
         "linux/amd64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-xtream-library/releases/download/v0.9.1/xtream-0.9.1-linux-amd64",
-          "checksum": "039b1ff204b85f1bc8b7ad6e8b914b98cda378176dbf6cdc16954ac80142bf04"
+          "url": "https://github.com/attmonk/attmonk-plugin-xtream-library/releases/download/v0.9.2/xtream-0.9.2-linux-amd64",
+          "checksum": "c239cecebcfe754db02437bea2e1e3fc49c5e0e5e5c0326be39455d6f7fbe554"
         },
         "linux/arm64": {
-          "url": "https://github.com/attmonk/attmonk-plugin-xtream-library/releases/download/v0.9.1/xtream-0.9.1-linux-arm64",
-          "checksum": "81ea3c74cbc865a93add799cf505c44f714261de7e185c07c9b7b7d2a54e6068"
+          "url": "https://github.com/attmonk/attmonk-plugin-xtream-library/releases/download/v0.9.2/xtream-0.9.2-linux-arm64",
+          "checksum": "3d469566b88090b7133c0b83d124e8ff702d95c4f4498d815a6a937574acc345"
         }
       }
     },
