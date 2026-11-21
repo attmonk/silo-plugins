@@ -3,7 +3,7 @@ module github.com/attmonk/silo-plugins
 go 1.26.0
 
 require (
-	github.com/Silo-Server/silo-plugin-sdk v0.32.1
+	github.com/Silo-Server/silo-plugin-sdk v0.35.0
 	google.golang.org/protobuf v1.36.11
 	modernc.org/sqlite v1.61.0
 )
